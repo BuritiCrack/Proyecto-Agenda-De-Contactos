@@ -1,0 +1,14 @@
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.GeneratedMSBuildEditorConfig.editorconfig
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.AssemblyInfoInputs.cache
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.AssemblyInfo.cs
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.csproj.CoreCompileInputs.cache
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\bin\Debug\net8.0\AgendaContactos.exe
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\bin\Debug\net8.0\AgendaContactos.deps.json
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\bin\Debug\net8.0\AgendaContactos.runtimeconfig.json
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\bin\Debug\net8.0\AgendaContactos.dll
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\bin\Debug\net8.0\AgendaContactos.pdb
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.dll
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\refint\AgendaContactos.dll
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.pdb
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.genruntimeconfig.cache
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\ref\AgendaContactos.dll
