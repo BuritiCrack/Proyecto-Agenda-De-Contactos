@@ -15,10 +15,11 @@ namespace AgendaContactos
                 return _index;
             }
         }
-
+        
         public Agenda()
         {
             _index = 0;
+
             _contactos = new Contacto[TAM];
         }
 
@@ -46,6 +47,11 @@ namespace AgendaContactos
             {
                 System.Console.WriteLine("La agenda esta vacia");
             }
+        }
+
+        public void BorrarContacto()
+        {
+            
         }
 
         private bool NoHayContactos()
@@ -95,7 +101,6 @@ namespace AgendaContactos
                     return contacto;
                 }
             }
-
             return null;
         }
 
@@ -103,6 +108,7 @@ namespace AgendaContactos
         {
             return CadenaContactos(_contactos);
         }
+        
         private string CadenaContactos(Contacto[] contactos)
         {
             StringBuilder builder = new StringBuilder();

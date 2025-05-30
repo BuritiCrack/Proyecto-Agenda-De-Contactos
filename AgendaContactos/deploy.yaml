@@ -1,0 +1,15 @@
+name: "Hola mundo"
+
+on:
+  push:
+    branches: [main]
+
+jobs: 
+  deploy-miprimerdeploy:
+    runs-on: ubuntu-lastest
+    steps:
+    run: echo "Hola mundo desde mi primer deploy con GitHub Actions en el branch main"
+    run: echo "hacemos pull del codigo"
+    run: echo "hacemos un deploy de la aplicacion"
+    run: echo "terminamos el deploy de la aplicacion"
+    run: echo "terminamos el deploy de la aplicacion en el branch main"

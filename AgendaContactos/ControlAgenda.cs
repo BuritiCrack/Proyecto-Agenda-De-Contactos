@@ -42,6 +42,7 @@ namespace AgendaContactos
             Limpiar();
             System.Console.WriteLine("Nuevo Contacto");
             Contacto contacto = new Contacto();
+
             System.Console.Write("Nombre: ");
             contacto.Nombre = Console.ReadLine();
             System.Console.Write("Telefono: ");
@@ -62,7 +63,7 @@ namespace AgendaContactos
             PresionaParaContinuar();
         }
 
-        public  void BuscarPorNombre()
+        public void BuscarPorNombre()
         {
             Limpiar();
             System.Console.WriteLine("Buscar Contacto");

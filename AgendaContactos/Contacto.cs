@@ -11,7 +11,7 @@ namespace AgendaContactos
             Nombre = nombre;
         }
         public Contacto(string nombre, string telefono) : this(nombre)
-        {
+        { 
             Telefono = telefono;
         }
         public Contacto(string nombre, string telefono, string correo) : this(nombre, telefono)
@@ -49,7 +49,7 @@ namespace AgendaContactos
 
         public override string ToString()
         {
-            return string.Format("Nombre: {0}\nTelefono: {1}\nCorreo: {2}",Nombre,Telefono,Correo);
+            return string.Format("Nombre: {0}\nTelefono: {1}\nCorreo: {2}\n",Nombre,Telefono,Correo);
         }
         public int CompareTo(Contacto? otro)
         {

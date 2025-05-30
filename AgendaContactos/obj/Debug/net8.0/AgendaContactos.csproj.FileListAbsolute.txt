@@ -12,3 +12,4 @@ D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaCon
 D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.pdb
 D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.genruntimeconfig.cache
 D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\ref\AgendaContactos.dll
+D:\jmbur\Documents\Visual Studio Proyects\Proyecto Agenda De Contactos\AgendaContactos\obj\Debug\net8.0\AgendaContactos.sourcelink.json

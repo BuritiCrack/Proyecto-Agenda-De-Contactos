@@ -50,7 +50,7 @@ class Program
         sb.AppendLine("3. Borrar Ultimo Contacto");
         sb.AppendLine("4. Buscar Contacto Por Nombre");
         sb.AppendLine("5. Acerca De");
-        sb.AppendLine("1. Salir");
+        sb.AppendLine("6. Salir");
         sb.Append("Seleccione Una Opcion: ");
 
         System.Console.Write(sb.ToString());
