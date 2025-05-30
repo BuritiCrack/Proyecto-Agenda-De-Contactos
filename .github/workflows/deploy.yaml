@@ -6,9 +6,9 @@ on:
 
 jobs: 
   deploy-miprimerdeploy:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
-    uses: actions/checkout@v2
+    - uses: actions/checkout@v2
     - run: |
         echo "Hola mundo desde mi primer deploy en GitHub Actions"
         echo "Este es un ejemplo de un workflow de GitHub Actions para desplegar una aplicación simple."
