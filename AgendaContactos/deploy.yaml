@@ -9,8 +9,31 @@ jobs:
     runs-on: ubuntu-lastest
     steps:
     uses: actions/checkout@v2
-      - run: echo "Hola mundo desde mi primer deploy con GitHub Actions en el branch main"
-      - run: echo "hacemos pull del codigo"
-      - run: echo "hacemos un deploy de la aplicacion"
-      - run: echo "terminamos el deploy de la aplicacion"
-      - run: echo "terminamos el deploy de la aplicacion en el branch main"
+    - run: |
+        echo "Hola mundo desde mi primer deploy en GitHub Actions"
+        echo "Este es un ejemplo de un workflow de GitHub Actions para desplegar una aplicación simple."
+    - name: Deploy to server
+      run: |
+        echo "Desplegando la aplicación..."
+        # Aquí puedes agregar los comandos para desplegar tu aplicación, por ejemplo:
+        # scp -r . user@yourserver:/path/to/deploy
+        echo "Aplicación desplegada con éxito!"
+    - name: Notify deployment
+      run: |
+        echo "Notificando el despliegue..."
+        # Aquí puedes agregar comandos para notificar el despliegue, por ejemplo:
+        # curl -X POST -d "Deployment successful" https://your-notification-service.com/api/notify
+        echo "Notificación enviada!"
+    - name: Cleanup
+      run: |
+        echo "Limpiando recursos temporales..."
+        # Aquí puedes agregar comandos para limpiar recursos temporales, por ejemplo:
+        # rm -rf /path/to/temp/files
+        echo "Recursos temporales limpiados!"
+    - name: Finish
+      run: |
+        echo "Despliegue finalizado!"
+        echo "Gracias por usar GitHub Actions para tu despliegue."
+        echo "Recuerda revisar los logs para asegurarte de que todo ha ido bien."
+        echo "¡Hasta la próxima!"
+      
